@@ -1,0 +1,45 @@
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll

@@ -1,0 +1,36 @@
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+C:\Users\moham\OneDrive\Desktop\ASP MVC\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\studying\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\studying\Web\ASP.NET\Projects\CRUD-Operations-And-User-Management-main\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
